@@ -1,9 +1,9 @@
 {
-    "name": "sensio/buzz-bundle",
+    "name": "mattvick/buzz-bundle",
     "description": "Bundle around the Buzz HTTP client",
     "type": "symfony-bundle",
     "keywords": ["http client", "buzz"],
-    "homepage": "https://github.com/sensio/SensioBuzzBundle",
+    "homepage": "https://github.com/mattvick/SensioBuzzBundle",
     "license": "MIT",
     "authors": [
         {
